@@ -1,4 +1,4 @@
-# Reddit-Image_Scraper
+# Reddit_Image_Scraper
 
 ImageDL.py can be used to scrape images from any subreddit. Need some PRAW-Knowledge and a Reddit-Script-ID to get this working.
 Info here: https://praw.readthedocs.io/en/latest/
